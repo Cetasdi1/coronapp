@@ -1,0 +1,29 @@
+.hero{
+    display: flex;
+}
+
+.mantente-seguro{
+    display: flex;
+}
+.mantente-seguro__texto{
+    justify-content: flex-start ;
+}
+.expertos{
+    display: inline-block;
+}
+.expertos__lista{
+    display: flex;
+}
+.expertos__habla{
+    display: flex;
+}
+.cuidado__salud{
+    display: block;
+}
+.cuidado__prevencion{
+    display: flex;
+}
+.cuidado__descargar{
+    display: flex;
+    gap: 66px;
+}
