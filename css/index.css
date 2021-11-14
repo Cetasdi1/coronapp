@@ -2,9 +2,14 @@
 @import "./styles.css";
 @import "./hero.css";
 @import "./componentes/button.css";
+@import "./componentes/wrapper.css";
 /* figure {
   width: 100%;
 } */
-figure img {
+/* figure {
+  width: 100px;
+  width: 100px;
+} */
+img {
   width: 100%;
 }
